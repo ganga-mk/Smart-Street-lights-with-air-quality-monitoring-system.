@@ -1,0 +1,2 @@
+# Smart-Street-lights-with-air-quality-monitoring-system.
+This project integrates smart street lighting with an air pollution monitoring system. The air pollution monitoring system was designed to monitor and analyse air quality in real-time and log data to a remote server, keeping the data updated over the internet. The data collected can be used to design pollution maps, personalised maps and route planning.
