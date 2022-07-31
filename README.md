@@ -3,7 +3,9 @@ This project integrates smart street lighting with an air pollution monitoring s
 
 
 The main objectives of this project are:
+
 To automate the manual control of the conventional street lights
+
 To develop an IoT based real time air quality monitoring system 
 
 
@@ -16,7 +18,10 @@ The system architecture of smart street lighting system with air quality monitor
 
 
 Hardware requirements : Arduino UNO,LDR, IR sensors, Wi-Fi module (here ESP8266 Node MCU), MQ 135 sensor, MQ 3 module, LED lights and Jumper wires 
+
 Software requirements : Arduino IDE, Thingspeak IoT platform
+
+
 
 
 
