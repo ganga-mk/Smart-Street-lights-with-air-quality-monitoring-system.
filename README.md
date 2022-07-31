@@ -28,4 +28,5 @@ Software requirements : Arduino IDE, Thingspeak IoT platform
 
 
 RESULTS
+
 The automatic street light system worked successfully based on the principle of brightness and motion detection. The air quality monitoring system was tested in the presence of smoke and alcohol. When the level of pollutant exceeded the threshold limit, a warning was sent to the respective twitter account.
