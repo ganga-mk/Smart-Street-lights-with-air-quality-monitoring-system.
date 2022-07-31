@@ -18,7 +18,9 @@ The system architecture of smart street lighting system with air quality monitor
 
 
 
+
 Hardware requirements : Arduino UNO,LDR, IR sensors, Wi-Fi module (here ESP8266 Node MCU), MQ 135 sensor, MQ 3 module, LED lights and Jumper wires 
+
 Software requirements : Arduino IDE, Thingspeak IoT platform
 
 
